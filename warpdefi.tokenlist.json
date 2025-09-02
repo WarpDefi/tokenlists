@@ -1,5 +1,5 @@
 {
-  "name": "Pangolin Tokenlist",
+  "name": "WarpDefi Tokenlist",
   "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x60781C2586D68229fde47564546784ab3fACA982/logo_48.png",
   "keywords": [],
   "version": {
@@ -93,7 +93,7 @@
       "chainId": 295,
       "address": "0x00000000000000000000000000000000001a88b2",
       "decimals": 8,
-      "name": "Pangolin Hedera",
+      "name": "WarpDefi Hedera",
       "symbol": "PBAR",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/295/0x00000000000000000000000000000000001a88b2/logo_48.png"
     },
@@ -149,7 +149,7 @@
       "chainId": 9000,
       "address": "0x171a6A80cdDDd8f69134ff0471523400f2C16ABe",
       "decimals": 18,
-      "name": "Pangolin Evmos",
+      "name": "WarpDefi Evmos",
       "symbol": "evmPNG",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/9000/0x171a6A80cdDDd8f69134ff0471523400f2C16ABe/logo_48.png"
     },
@@ -157,7 +157,7 @@
       "chainId": 114,
       "address": "0x6169CD307Be7E24152dF23a7A945A1ea3eC7b438",
       "decimals": 18,
-      "name": "Pangolin Coston2",
+      "name": "WarpDefi Coston2",
       "symbol": "PCT2",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/114/0x6169CD307Be7E24152dF23a7A945A1ea3eC7b438/logo_48.png"
     },
@@ -181,7 +181,7 @@
       "chainId": 296,
       "address": "0x0000000000000000000000000000000000289a96",
       "decimals": 8,
-      "name": "Pangolin Hedera",
+      "name": "WarpDefi Hedera",
       "symbol": "PBAR",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/296/0x0000000000000000000000000000000000289a96/logo_48.png"
     },
@@ -189,7 +189,7 @@
       "chainId": 16,
       "address": "0x0A8744c2a48b0e09a3e4C3A381A8E0d8d900bAFe",
       "decimals": 18,
-      "name": "Pangolin",
+      "name": "WarpDefi",
       "symbol": "PCT",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/16/0x0A8744c2a48b0e09a3e4C3A381A8E0d8d900bAFe/logo_48.png"
     },
@@ -197,7 +197,7 @@
       "chainId": 11111,
       "address": "0xbdf33c7128fBB220fc0e4Be277697cEeef8BdfF5",
       "decimals": 18,
-      "name": "Pangolin",
+      "name": "WarpDefi",
       "symbol": "wagmiPNG",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/11111/0xbdf33c7128fBB220fc0e4Be277697cEeef8BdfF5/logo_48.png"
     },
@@ -237,7 +237,7 @@
       "chainId": 19,
       "address": "0xb2987753D1561570f726Aa373F48E77e27aa5FF4",
       "decimals": 18,
-      "name": "Pangolin Songbird",
+      "name": "WarpDefi Songbird",
       "symbol": "PSB",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/19/0xb2987753D1561570f726Aa373F48E77e27aa5FF4/logo_48.png"
     },
@@ -349,7 +349,7 @@
       "chainId": 14,
       "address": "0xB5010D5Eb31AA8776b52C7394B76D6d627501C73",
       "decimals": 18,
-      "name": "Pangolin Flare",
+      "name": "WarpDefi Flare",
       "symbol": "PFL",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/14/0xB5010D5Eb31AA8776b52C7394B76D6d627501C73/logo_48.png"
     },
@@ -429,7 +429,7 @@
       "chainId": 43114,
       "address": "0x60781C2586D68229fde47564546784ab3fACA982",
       "decimals": 18,
-      "name": "Pangolin",
+      "name": "WarpDefi",
       "symbol": "PNG",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x60781C2586D68229fde47564546784ab3fACA982/logo_48.png"
     },
@@ -1765,7 +1765,7 @@
       "chainId": 80001,
       "address": "0x4828a3D98E428e73184374845f23C40eB76bA695",
       "decimals": 18,
-      "name": "Pangolin",
+      "name": "WarpDefi",
       "symbol": "mumbaiPNG",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/80001/0x4828a3D98E428e73184374845f23C40eB76bA695/logo_48.png"
     },

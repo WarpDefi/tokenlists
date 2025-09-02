@@ -2,7 +2,7 @@
 
 Token Lists is a specification for lists of token metadata (e.g. address, decimals, etc.) that can be used by any dApp
 interfaces that needs one or more lists of tokens. Anyone can create and maintain a token list, as long as they follow
-the specification. The Pangolin community invites you to add your token to our tokenlists!
+the specification. The WarpDefi community invites you to add your token to our tokenlists!
 
 
 ## Adding Your Token to an Existing List
@@ -11,7 +11,7 @@ the specification. The Pangolin community invites you to add your token to our t
 ### General Requirements
 1. Token should be verified on the [Snowtrace Explorer](https://snowtrace.io/verifyContract).
 2. Token must be added to a list that it qualifies for:
-    * **[Pangolin Tokenlist](./pangolin.tokenlist.json)**: Token must be on the Avalanche network.
+    * **[WarpDefi Tokenlist](./pangolin.tokenlist.json)**: Token must be on the Avalanche network.
     * **[Fuji Tokenlist](./fuji.tokenlist.json)**: Token must be on the Fuji network.
 
 
@@ -22,7 +22,7 @@ the specification. The Pangolin community invites you to add your token to our t
       "chainId": 43114,
       "address": "0x60781C2586D68229fde47564546784ab3fACA982",
       "decimals": 18,
-      "name": "Pangolin",
+      "name": "WarpDefi",
       "symbol": "PNG",
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/43114/0x60781C2586D68229fde47564546784ab3fACA982/logo_24.png"
     }
